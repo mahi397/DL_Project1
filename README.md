@@ -1,6 +1,10 @@
 # Employing ResNet Architecture for CIFAR-10 Classification
 
 This repository houses the codebase for Deep Learning Project #1.
+Team Members: 
+* Mahima Sachdeva
+* Riya Patil
+* Satya Kamala Immidisetty
 
 The final model is in this notebook: [Modified Resnet-34](https://github.com/mahi397/Employing-ResNet-Architecture-for-CIFAR-10-Classification/blob/main/notebooks/rn_34_mod.ipynb)
 
