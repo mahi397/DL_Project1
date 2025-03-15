@@ -25,5 +25,5 @@ Here is our model at a glance:
 * Training Accuracy: 99.845%
 * Validation Accuracy: 94.13%
 
-The Jupyter Notebooks for our models can be found inside `models/`.
+The Jupyter Notebooks for our models can be found inside `notebooks/`.
 
