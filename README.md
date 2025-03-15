@@ -4,7 +4,7 @@ This repository houses the codebase for Deep Learning Project #1.
 
 The final model is in this notebook: [Modified Resnet-34](https://github.com/mahi397/Employing-ResNet-Architecture-for-CIFAR-10-Classification/blob/main/notebooks/rn_34_mod.ipynb)
 
-The model has been trained on the CIFAR-10 dataset and tested on the same dataset.
+The model has been trained on the CIFAR-10 dataset and tested on the same dataset. The training, validation and test accuracy calculated in the code are all on the **original** CIFAR-10 dataset. <br/>
 Further, its predictions have been generated for the unlabeled dataset provided for this project, which are located here: [Output CSV file](https://github.com/mahi397/Employing-ResNet-Architecture-for-CIFAR-10-Classification/blob/main/results/rn_34_output.csv)
 
 The final model checkpoints have been saved here: [Final checkpoint](https://github.com/mahi397/Employing-ResNet-Architecture-for-CIFAR-10-Classification/blob/main/models/resnet_34_best.pth)
